@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/Terry/Desktop/CMU/DEIIS/pis/pi1/.metadata/.plugins/org.eclipse.jdt.core
+2165257633.index
